@@ -4,9 +4,9 @@ Files contain json arrays
 
 ## Files
 
-[data/large-file.json](data/large-file.json), 11351 elements, 26MB
-[data/medium-file.json](data/medium-file.json), 4000 elements, 9.3MB
-[data/small-file.json](data/small-file.json), 1000 elements, 2.1MB
+- [data/large-file.json](data/large-file.json), 11351 elements, 26MB
+- [data/medium-file.json](data/medium-file.json), 4000 elements, 9.3MB
+- [data/small-file.json](data/small-file.json), 1000 elements, 2.1MB
 
 
 ## Create your custom file
